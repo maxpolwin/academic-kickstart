@@ -26,7 +26,7 @@ interests = [
   "Data Analytics",
   "Financial Inclusion",
   "Behaviour Science",
-  "Knowledge Management",
+  "Photography",
 ]
 
 # Organizational groups that you belong to (for People widget)
@@ -68,6 +68,13 @@ user_groups = ["IDDP Trainee"]
   icon = "github"
   icon_pack = "fab"
   link = "https://github.com/maxpolwin"
+  
+
+[[social]]
+  icon = "camera"
+  icon_pack = "fab"
+  link = "https://www.eyeem.com/u/maxpolwin"
+  
   
 [[social]]
   icon = "linkedin"
