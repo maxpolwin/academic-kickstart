@@ -68,6 +68,11 @@ user_groups = ["IDDP Trainee"]
 #  icon = "github"
 #  icon_pack = "fab"
 #  link = "https://github.com/maxpolwin"
+
+[[social]]
+  icon = "bookmark"
+  icon_pack = "far"
+  link = "https://www.are.na/max-polwin"
   
 
 [[social]]
