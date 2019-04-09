@@ -72,7 +72,7 @@ user_groups = ["IDDP Trainee"]
 
 [[social]]
   icon = "camera"
-  icon_pack = "fab"
+  icon_pack = "far"
   link = "https://www.eyeem.com/u/maxpolwin"
   
   
