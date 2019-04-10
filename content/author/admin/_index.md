@@ -94,7 +94,4 @@ user_groups = ["IDDP Trainee"]
 #   link = "files/cv.pdf"
 
 +++
-
-I am interested in the societal and environmental impacts of technological developments and how to leverage them through behaviour science to contribute to the SDGs.
-
-My current focus is on distributed ledger solutions, such as blockchain, AI technologies and their  impact on businesses and society.
+I am interested in the societal and environmental impact of technological developments and how to leverage them through behaviour science to contribute to sustainable development. My particular focus are applications of advanced analytics and distributed ledger technologies.
