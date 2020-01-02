@@ -26,7 +26,7 @@ interests = [
   "Data Analytics",
   "Financial Inclusion",
   "Behaviour Science",
-  "Data Privacy",
+  "IT Security & Data Privacy",
   "Photography",
 ]
 
