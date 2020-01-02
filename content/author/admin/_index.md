@@ -13,10 +13,10 @@ role = "IDDP Trainee"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Commerzbank", url = "https://www.commerzbank.com" } ]
+organizations = [ { name = "Commerzbank AG", url = "https://www.commerzbank.com" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Breaking into Data Analytics with a passion for ESG Finance for Inclusive Growth (powered by Third Wave Coffee)"
+bio = "Breaking into Data Analytics with a passion for Sustainable Finance for Inclusive Growth (powered by Third Wave Coffee)"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -26,6 +26,7 @@ interests = [
   "Data Analytics",
   "Financial Inclusion",
   "Behaviour Science",
+  "Online Privacy)"
   "Photography",
 ]
 
@@ -94,7 +95,7 @@ user_groups = ["IDDP Trainee"]
 #   link = "files/cv.pdf"
 
 +++
-I am interested in the societal and environmental impact of technological 
+I am interested in the societal and environmental impact of technological
 and how to leverage them through behaviour science to contribute to sustainable
 development. My particular focus are applications of advanced analytics and
 distributed ledger technologies to advance financial inclusion and sustainable finance.
