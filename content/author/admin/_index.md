@@ -73,19 +73,19 @@ user_groups = ["IDDP Trainee"]
   icon = "bookmark"
   icon_pack = "far"
   link = "https://www.are.na/max-polwin"
-  
+
 
 [[social]]
   icon = "camera"
   icon_pack = "far"
   link = "https://www.eyeem.com/u/maxpolwin"
-  
-  
+
+
 [[social]]
   icon = "linkedin"
   icon_pack = "fab"
   link = "https://www.linkedin.com/in/maxpolwin"
-  
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[social]]
@@ -94,4 +94,7 @@ user_groups = ["IDDP Trainee"]
 #   link = "files/cv.pdf"
 
 +++
-I am interested in the societal and environmental impact of technological developments and how to leverage them through behaviour science to contribute to sustainable development. My particular focus are applications of advanced analytics and distributed ledger technologies.
+I am interested in the societal and environmental impact of technological 
+and how to leverage them through behaviour science to contribute to sustainable
+development. My particular focus are applications of advanced analytics and
+distributed ledger technologies to advance financial inclusion and sustainable finance.
