@@ -9,7 +9,7 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "IDDP Trainee"
+role = "Digital Architect"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -32,7 +32,7 @@ interests = [
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups = ["IDDP Trainee"]
+# user_groups = ["IDDP Trainee"]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
@@ -55,10 +55,10 @@ user_groups = ["IDDP Trainee"]
 #  icon_pack = "fas"
 #  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
 
-[[social]]
-  icon = "twitter"
-  icon_pack = "fab"
-  link = "https://twitter.com/maxpolwin"
+#[[social]]
+#  icon = "twitter"
+#  icon_pack = "fab"
+#  link = "https://twitter.com/maxpolwin"
 
 #[[social]]
 #  icon = "google-scholar"
