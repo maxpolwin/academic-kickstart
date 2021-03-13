@@ -16,7 +16,7 @@ role = "Digital Architect"
 organizations = [ { name = "Commerzbank AG", url = "https://www.commerzbank.com" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "Breaking into Data Analytics with a passion for Sustainable Finance for Inclusive Growth (powered by Third Wave Coffee)"
+bio = " Sustainable Finance for Inclusive Growth (powered by Third Wave Coffee)"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = ""
@@ -102,6 +102,5 @@ interests = [
 
 +++
 I am interested in the societal and environmental impact of technological
-and how to leverage them through behaviour science to contribute to sustainable
-development. My particular focus are applications of advanced analytics and
-distributed ledger technologies to advance financial inclusion and sustainable finance.
+and how to leverage them through behavior science to contribute to sustainable
+development. My particular focus is on advancing financial inclusion and sustainable finance.
