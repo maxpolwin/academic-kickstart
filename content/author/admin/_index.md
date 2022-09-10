@@ -9,11 +9,11 @@ authors = ["admin"]
 superuser = true
 
 # Role/position
-role = "Business Analyst"
+role = "Senior Consultant Sustainable Finance"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Commerzbank AG", url = "https://www.commerzbank.com" } ]
+organizations = [ { name = "targens", url = "https://targens.de/" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = " Sustainable Finance for Inclusive Growth (powered by Third Wave Coffee)"
@@ -25,7 +25,6 @@ email = ""
 interests = [
   "Financial Inclusion",
   "Behaviour Science",
-  "Data Analytics",
   "IT Security & Data Privacy",
   "Photography",
 ]
