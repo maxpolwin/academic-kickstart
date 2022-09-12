@@ -23,9 +23,10 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
+  "Sustainable Finance",
   "Financial Inclusion",
   "Behaviour Science",
-  "IT Security & Data Privacy",
+  "Data Privacy",
   "Photography",
 ]
 
@@ -87,10 +88,10 @@ interests = [
   link = "https://www.linkedin.com/in/maxpolwin"
 
 
-  [[social]]
-    icon = "envelope-open-text"
-    icon_pack = "fab"
-    link = "https://gcaai.substack.com/"
+ # [[social]]
+ #   icon = "envelope-open-text"
+ #   icon_pack = "fab"
+ #   link = "https://gcaai.substack.com/"
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
