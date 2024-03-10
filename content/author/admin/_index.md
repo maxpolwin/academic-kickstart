@@ -13,7 +13,7 @@ role = "Senior Consultant Sustainable Finance"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "targens", url = "https://targens.de/" } ]
+organizations = [ { name = "GFT", url = "https://gft.com/" } ]
 
 # Short bio (displayed in user profile at end of posts)
 bio = " Sustainable Finance for Inclusive Growth (powered by Third Wave Coffee)"
