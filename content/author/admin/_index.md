@@ -102,5 +102,4 @@ interests = [
 
 +++
 I am interested in the societal and environmental impact of technological
-and how to leverage them through behavior science to contribute to sustainable
-development. My particular focus is on advancing financial inclusion and sustainable finance.
+and how those can contribute to sustainable development. My particular focus is on advancing sustainable finance beyond ESG to enable the ecological transition and to enable a socially inclusive future.
